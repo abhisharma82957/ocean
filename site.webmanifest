@@ -1,0 +1,13 @@
+{
+  "name": "Ocean Overseas",
+  "short_name": "Ocean Overseas",
+  "description": "Immigration & Visa Consultants for Canada, Australia, UK & USA",
+  "icons": [
+    { "src": "images/favicon.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#092b51",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/index.html"
+}

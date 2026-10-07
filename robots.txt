@@ -1,10 +1,4 @@
-# robots.txt for Ocean Overseas
 User-agent: *
 Allow: /
 
-# Block nothing important; allow full crawl
-Disallow: /css/
-Disallow: /js/
-
-# Sitemap location
-Sitemap: https://www.oceanoverseas.in/sitemap.xml
+Sitemap: https://ocean-xi-lime.vercel.app/sitemap.xml
